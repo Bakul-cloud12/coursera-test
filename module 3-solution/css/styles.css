@@ -1,0 +1,144 @@
+         
+         /*HEADER*/
+    #header-nav{
+      background-color: green;
+      
+      
+    }
+
+    .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -30px;
+}
+.navbar-brand {
+  padding-top: 5px;
+  font-size: 25px;
+  
+}
+    .navbar-brand h1{
+      font-family: 'Lora', serif;
+  color: white;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0px;
+  margin-bottom: 0;
+  line-height: .75;
+  padding-top: 10px;
+  text-decoration: underline white;
+    }
+    #nav-list {
+  margin-top: 90px;
+}
+
+
+#nav-list a:hover {
+  background: grey;
+  
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+     
+  a> p{
+    color: yellow;
+    text-align: center;
+
+   }
+  
+   /* header */
+    }
+    *{
+      box-sizing: border-box;
+      font-family:  Helvetica;
+    }
+
+    
+     h2 {margin-top: 50px;
+      margin-bottom:40px;
+      color: red;
+      text-align:center;
+      font-weight: bold;
+      text-transform: uppercase;
+       font-family: 'Lora', serif;
+
+     }
+     section{
+       /* position: relative;*/
+        background-color: grey;
+        border: 1px solid black;
+        margin: 10px;
+        width: 90%
+        height:150px;
+        
+
+     }
+     
+     p{   
+  font-family: Helvetica;
+  color: black;
+  font-size: 18px;
+
+      
+     }
+     
+     .p {
+      display: block;
+      width: 150px;
+      height: 30px;
+       
+      border: 1px solid black;
+      color: black;
+      margin:0 40% 0 ;
+      text-align: center;
+      font-weight: bold;
+      font-size:18px;
+      padding-top: 2px;
+}
+    #dish1{
+      background-color: yellow;
+      padding-top: 4px;
+    }
+    #dish2 {
+      background-color: orange;
+      padding-top: 4px;
+    }
+    #dish3{
+      background-color:lightblue;
+      padding-top: 4px;
+    }
+
+section p {
+       padding: 20px 15px 15px 15px;
+       font-style: Helvetica;
+      
+         }
+   .row {
+  width: 100%;
+}
+.back{
+  font-size:20px;
+  margin-left: 10px;
+  font-weight: bold;
+  text-decoration:  underline;
+}
+.paragrafhstyle {margin-left: 20px;}
+#m{
+margin-left: 20px;
+}
+
+.c {
+  margin-bottom: 20px;
+}
+
+ @media (min-width: 767px) {
+  .container{
+    height: 60px;
+  }
+  
+  
+
